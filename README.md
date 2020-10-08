@@ -40,7 +40,7 @@ Applying 5X5 filters to do the following task
 |Input Image|
 
 **Output**
-|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/2.Applying_Kernels/result_box_blur.png">|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/2.Applying_Kernels/result_blur.png">|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/2.Applying_Kernels/result_sharpen.png">|
+|<img width="640" height="450" src="https://raw.githubusercontent.com/raj1199/image-rotation/master/box_blur.png">|<img width="640" height="450" src="https://raw.githubusercontent.com/raj1199/image-rotation/master/gaussian_blur_image.png">|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/2.Applying_Kernels/result_sharpen.png">|
 |:---:|:---:|:---:|
 |Box Blur|Gaussian Blur|Sharpen|
 
@@ -59,10 +59,10 @@ Applying Edge Detection in following sequence
 |Input Image|
 
 **Output**
-|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/result_verical_edge.jpg">|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/result_horizontal_edge.jpg">|
+|<img width="602" height="452" src="https://raw.githubusercontent.com/raj1199/image-rotation/master/xkernel.png">|<img width="602" height="452" src="https://raw.githubusercontent.com/raj1199/image-rotation/master/y_direction_edge_detection.png">|
 |:---:|:---:|
 |Horizontal Edge Detection|Vertical Edge Detection|
-|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/result_sobel.jpg">|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/result_canny.jpg">|
+|<img width="602" height="452" src="https://raw.githubusercontent.com/raj1199/image-rotation/master/sobel.png">|<img width="602" height="452" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/3.Edge_Detection/result_canny.jpg">|
 |Sobel Edge Detection|Canny Edge Detection|
 
 ### 4. Morphological Transformation
@@ -77,7 +77,7 @@ Applying dilation and erosion transformation to the image
 ### 5. Masking
 Masking is an image processing method in which we define a small 'image piece' and use it to modify a larger image. Masking is the process that is underneath many types of image processing, including edge detection, motion detection, and noise reduction.
 To show only blue ball a mask has been applied to the following input image
-|<img width="600" height="396" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/5.Masking/mask.jpeg">|<img width="600" height="396" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/5.Masking/masked.jpeg">|
+|<img width="600" height="396" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/5.Masking/mask.jpeg">|<img width="600" height="396" src="https://raw.githubusercontent.com/raj1199/image-rotation/master/mask.png">|
 |:---:|:---:|
 |Input Image|Masked Image(output)|
 
