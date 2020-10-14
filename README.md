@@ -18,9 +18,9 @@ The image can be rotated by any angle bound or inbound.It involves finding the c
 
 
 **Output**
-|<img width="600" height="322" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/1.Image_Rotation/rotated_sheared_without_bound.png">|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/1.Image_Rotation/rotated_sheared_bound.png">|
-|:---:|:---:|
-|Shearing Rotation(No Bound)|Shearing Rotation(Bound)|
+|<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/1.Image_Rotation/rotated_sheared_bound.png">|
+|:---:|
+|Shearing Rotation(Bound)|
 
 
 
