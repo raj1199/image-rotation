@@ -68,9 +68,9 @@ Morphological transformations are some simple operations based on the image shap
 Applying dilation and erosion transformation to the image
 
 **Output**
-|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/morphological.png">|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/result_dilation.png">|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/result_erosion.png">|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/dilation-edge_detection.jpg">|
-|:---:|:---:|:---:|:---:|
-|Input-Image|Dilation|Erosion|Edge-Detection|
+|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/morphological.png">|<img width="112" height="150" src="">|<img width="112" height="150" src="">|
+|:---:|:---:|:---:|
+|Input-Image|Dilation|Erosion|
 
 ### 5. Masking
 Masking is an image processing method in which we define a small 'image piece' and use it to modify a larger image. Masking is the process that is underneath many types of image processing, including edge detection, motion detection, and noise reduction.
