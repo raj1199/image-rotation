@@ -20,7 +20,7 @@ The image can be rotated by any angle bound or inbound.It involves finding the c
 **Output**
 |<img width="640" height="450" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/1.Image_Rotation/rotated_sheared_bound.png">|
 |:---:|
-|Shearing Rotation(Bound)|
+|Shearing Rotation|
 
 
 
