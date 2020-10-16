@@ -68,7 +68,7 @@ Morphological transformations are some simple operations based on the image shap
 Applying dilation and erosion transformation to the image
 
 **Output**
-|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/morphological.png">|<img width="112" height="150" src="">|<img width="112" height="150" src="">|
+|<img width="112" height="150" src="https://github.com/gautam-dev-maker/Image_Processing/blob/master/4.Morphological_Transformation/morphological.png">|<img width="112" height="150" src="https://raw.githubusercontent.com/raj1199/image-rotation/master/dilated.png">|<img width="112" height="150" src="https://raw.githubusercontent.com/raj1199/image-rotation/master/eroded.png">|
 |:---:|:---:|:---:|
 |Input-Image|Dilation|Erosion|
 
